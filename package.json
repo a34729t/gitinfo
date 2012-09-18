@@ -1,0 +1,15 @@
+{ "name": "gitinfo"
+, "description": "A library for getting git info for your app at start time"
+, "version": "0.0.1"
+, "url": "https://github.com/a34729t/gitinfo"
+, "author": "Nicolas Flacco <nico@elphicloud.com>"
+, "engines": ["node >= 0.4.0"]
+, "main": "./lib/index.js"
+, "devDependencies": {
+  "async": "latest"
+}
+, "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/a34729t/gitinfo"
+  }
+}
