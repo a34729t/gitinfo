@@ -1,5 +1,9 @@
 ### gitinfo
 
+Install: 
+
+    npm install gitinfo
+
 Get git information for your node.js app while it is running. Use like so:
 
     var gitinfo = require(__dirname + '/../lib/index.js');
